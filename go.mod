@@ -2,7 +2,7 @@ module github.com/jerryjs/go-grpc-auth-svc
 
 go 1.18
 
-replace github.com/jerryjs/go-grpc-auth-svc => ./
+// replace github.com/jerryjs/go-grpc-auth-svc => ./
 
 require (
 	github.com/golang-jwt/jwt v3.2.2+incompatible
